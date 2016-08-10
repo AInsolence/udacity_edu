@@ -29,5 +29,5 @@ JavaScript = {"courses" : {"course_10" : "Udacity. JavaScript basics.",
 
 Flask = {"courses" : {"course_11" : "Udacity. Full Stack Foundations.", 
 		"books" : [], 
-		"sources" : []};
+		"sources" : []};}
 
