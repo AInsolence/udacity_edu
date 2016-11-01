@@ -23,7 +23,6 @@ var charEscape = function(_html) {
     // How will you make sure that newHTML doesn't contain any < or > ?
     // Your code goes here!
 	newHTML = newHTML.replace(/</g, '');
-	newHTML = newHTML.replace(/>/g, '');
 	// Don't delete this line!
     return newHTML;
 };

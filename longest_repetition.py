@@ -26,7 +26,6 @@ def longest_repetition(data):
     return res[a][0]
 
 
-
 #For example,
 
 print longest_repetition([1, 2, 2, 3, 3, 3, 2, 2, 1])
